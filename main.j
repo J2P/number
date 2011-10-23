@@ -1,16 +1,12 @@
-/*
- * AppController.j
- * NewApplication
- *
- * Created by You on April 9, 2010.
- * Copyright 2010, Your Company All rights reserved.
- */
+//
+// main.j
+// iTunes Layout
+//
 
 @import <Foundation/Foundation.j>
 @import <AppKit/AppKit.j>
 
 @import "AppController.j"
-
 
 function main(args, namedArgs)
 {
